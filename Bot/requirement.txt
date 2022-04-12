@@ -1,0 +1,5 @@
+pyttsx3 (pip install pyttsx3)
+Speech Recognation (pip install Speech Recognition)
+pywhatkit (pip install pywhatkit)
+wikipedia (pip install wikipedia)
+requests (pip install requests)
